@@ -1,9 +1,9 @@
 # Project: Shop App
 
-## ***Description:***
+## Description:
 The Shop App is a Flutter mobile application that allows users to browse for products from various categories. The app utilizes API integration to fetch product data and display relevant advertisements. Users can view products, browse different categories, like and unlike products, add items to their shopping cart, search for specific products, and manage their profile. The app follows a Bloc architecture pattern for state management, ensuring efficient data flow and a seamless user experience.
 
-### ***Key Features:***
+### Key Features:
 1. Product Listings: The app displays a variety of products from different categories, providing users with a wide range of options to browse and choose from.
 
 2. Category Navigation: Users can navigate through different categories, making it easier to find products of their interest. Each category showcases relevant products, enhancing the shopping experience.
